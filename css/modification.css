@@ -899,7 +899,11 @@ h3 span{
 
 .input-field {
   background-color: var(--white);
+<<<<<<< HEAD
   color: var(--black);
+=======
+  color: var(--bluetiful);
+>>>>>>> origin/main
   font-size: var(--fs-6);
   padding: 14px 18px;
   border-radius: var(--radius-5);
